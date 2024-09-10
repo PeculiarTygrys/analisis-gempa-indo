@@ -16,10 +16,15 @@ mag: magnitudo kejadian, mulai dari 1 hingga 9,5
 
 ## Visualization Result
 Indeks besaran gempa dikelompokan berdasarkan tanggal
+
 ![image](https://github.com/user-attachments/assets/e17cc9b3-69c9-413e-8287-be7accfcbb4c)
+
 Indeks besaran gempa jika dilihat di dalam kalender
+
 ![image](https://github.com/user-attachments/assets/57c9966f-635f-48f7-8270-166e388a64de)
+
 Peta sebaran gempa di Indonesia
+
 ![image](https://github.com/user-attachments/assets/ee4040ec-f626-4aed-8917-f056fc097b54)
 
 ## Technologies
