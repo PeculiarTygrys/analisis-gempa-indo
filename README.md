@@ -29,6 +29,7 @@ Peta sebaran gempa di Indonesia
 
 ## Technologies
 Python Version: 3.6
+
 Plugin: Pandas, Numpy, Missingno, Plotly
 
 ## Setup
@@ -117,7 +118,10 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Credits
-Project ini digunakan untuk memenuhi tugas Topik Khusus dengan anggota
+Project ini digunakan untuk memenuhi tugas Topik Khusus dengan anggota:
+
 Annisa Ramadhanti - 11210930000010
+
 Muhammad Shofian Tshauri - 11210930000012
+
 Muhammad Sharhan Khatami - 11210930000026
