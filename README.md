@@ -3,10 +3,15 @@ Gempa bumi di laut umumnya disebabkan oleh pergerakan lempeng tektonik di dasar 
 
 ## Data Understanding
 tgl: tanggal acara
+
 ot: stempel waktu kejadian
+
 lat: garis lintang pusat kejadian (derajat), mulai dari 6N hingga 11S
+
 lon: bujur pusat gempa (derajat), mulai dari 142E hingga 94E
+
 depth: kedalaman kejadian (km)
+
 mag: magnitudo kejadian, mulai dari 1 hingga 9,5
 
 ## Visualization Result
